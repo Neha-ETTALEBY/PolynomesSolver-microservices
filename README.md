@@ -37,14 +37,14 @@ Cette application résout des équations polynomiales en utilisant des méthodes
 
 ## **Architecture**
 
-L'application est divisée en plusieurs composants :
+L'application est divis\u00e9e en plusieurs composants :
 
-- **Client REST API** : Les frontends envoient des requêtes utilisateur au backend.
-- **Passerelle** : Spring Cloud Gateway route les requêtes vers les microservices appropriés.
-- **Microservices** : Services indépendants pour traiter des tâches spécifiques.
-- **Service Discovery** : Netflix Eureka pour la découverte dynamique des microservices.
+- **Client REST API** : Les frontends envoient des requ\u00eates utilisateur au backend.
+- **Passerelle** : Spring Cloud Gateway route les requ\u00eates vers les microservices appropri\u00e9s.
+- **Microservices** : Services ind\u00e9pendants pour traiter des t\u00e2ches sp\u00e9cifiques.
+- **Service Discovery** : Netflix Eureka pour la d\u00e9couverte dynamique des microservices.
 
-![Architecture des services]([[https://github.com/user-attachments/assets/6155df5a-5d46-421a-81cf-31c5b66fde12](https://app.eraser.io/workspace/ckNFDmpsj8GlPOET39RP?origin=share](https://app.eraser.io/workspace/ckNFDmpsj8GlPOET39RP)))
+![Architecture des services](https://github.com/user-attachments/assets/6155df5a-5d46-421a-81cf-31c5b66fde12)
 
 ---
 
