@@ -107,7 +107,7 @@ L'application est divisée en plusieurs composants :
 
 ## **Utilisation**
 
-1. Accédez à l'interface utilisateur via `http://localhost:3000` pour React ou `http://localhost:8088` pour Flutter.
+1. Accédez à l'interface utilisateur via `http://localhost:3000` pour React ou `http://10.0.2.2:8081` pour Flutter.
 2. Saisissez une équation polynomiale et sélectionnez la méthode de résolution souhaitée.
 3. Consultez les résultats affichés sur l'interface.
 
