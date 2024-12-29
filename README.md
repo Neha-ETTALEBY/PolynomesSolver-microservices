@@ -19,10 +19,13 @@ Ce projet vise à fournir une solution modulaire et extensible pour résoudre de
 
 ## **Description du Projet**
 
-Cette application résout des équations polynomiales en utilisant des méthodes analytiques et numériques. Elle est conçue pour être scalable, modulaire, et capable d'intégrer facilement de nouvelles fonctionnalités. Deux types de méthodes sont prises en charge :
+Cette application résout des équations polynomiales en utilisant des méthodes analytiques et numériques. Elle est conçue pour être scalable, modulaire, et capable d'intégrer facilement de nouvelles fonctionnalités. Voici les méthodes principales prises en charge :
 
-- **Méthodes Numériques** : Approches comme les formules de Cardan et Ferrari.
-- **Méthodes Analytiques** : Techniques telles que Newton-Raphson et la méthode de bisection.
+- **Calcul des racines** : Méthodes pour trouver les racines des polynômes.
+- **Factorisation** : Techniques pour factoriser les polynômes.
+- **Calcul par la méthode de Newton** : Approches analytiques pour raffiner les solutions.
+- **Calcul quadratique** : Résolutions spécifiques à des polynômes du second degré.
+- **Visualisation graphique** : Présentation des solutions sous forme de graphes.
 
 ---
 
@@ -37,24 +40,24 @@ Cette application résout des équations polynomiales en utilisant des méthodes
 
 ## **Architecture**
 
-L'application est divis\u00e9e en plusieurs composants :
+L'application est divisée en plusieurs composants :
 
-- **Client REST API** : Les frontends envoient des requ\u00eates utilisateur au backend.
-- **Passerelle** : Spring Cloud Gateway route les requ\u00eates vers les microservices appropri\u00e9s.
-- **Microservices** : Services ind\u00e9pendants pour traiter des t\u00e2ches sp\u00e9cifiques.
-- **Service Discovery** : Netflix Eureka pour la d\u00e9couverte dynamique des microservices.
+- **Client REST API** : Les frontends envoient des requêtes utilisateur au backend.
+- **Passerelle** : Spring Cloud Gateway route les requêtes vers les microservices appropriés.
+- **Microservices** : Services indépendants pour traiter des tâches spécifiques.
+- **Service Discovery** : Netflix Eureka pour la découverte dynamique des microservices.
 
-![Architecture des services](https://github.com/user-attachments/assets/6155df5a-5d46-421a-81cf-31c5b66fde12)
+[Consultez l'architecture ici](https://app.eraser.io/workspace/ckNFDmpsj8GlPOET39RP?origin=share)
 
 ---
 
-## **Fonctionnalit\u00e9s**
+## **Fonctionnalités**
 
-- **Calcul des racines** : Trouver les solutions d'un polyn\u00f4me.
-- **Factorisation** : Diviser les polyn\u00f4mes en facteurs.
-- **Calcul par la m\u00e9thode de Newton** : Approximation des solutions analytiques.
-- **Calcul quadratique** : R\u00e9solution des polyn\u00f4mes du second degr\u00e9.
-- **Visualisation graphique** : Repr\u00e9sentation graphique des polyn\u00f4mes et de leurs racines.
+- **Calcul des racines** : Trouver les solutions d'un polynôme.
+- **Factorisation** : Diviser les polynômes en facteurs.
+- **Calcul par la méthode de Newton** : Approximation des solutions analytiques.
+- **Calcul quadratique** : Résolution des polynômes du second degré.
+- **Visualisation graphique** : Représentation graphique des polynômes et de leurs racines.
 
 ---
 
