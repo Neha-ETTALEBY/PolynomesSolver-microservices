@@ -134,6 +134,7 @@ L'application est divisée en plusieurs composants :
 - **Aya ELFAHIMI**
 - **Douaa ELFAHIMI**
 - **Aziza ATIGUI**
+- **Neha ET-TALEBY**
 
 ---
 
