@@ -44,16 +44,17 @@ L'application est divisée en plusieurs composants :
 - **Microservices** : Services indépendants pour traiter des tâches spécifiques.
 - **Service Discovery** : Netflix Eureka pour la découverte dynamique des microservices.
 
-![Architecture des services](https://github.com/user-attachments/assets/6155df5a-5d46-421a-81cf-31c5b66fde12)
+![Architecture des services]([[https://github.com/user-attachments/assets/6155df5a-5d46-421a-81cf-31c5b66fde12](https://app.eraser.io/workspace/ckNFDmpsj8GlPOET39RP?origin=share](https://app.eraser.io/workspace/ckNFDmpsj8GlPOET39RP)))
 
 ---
 
-## **Fonctionnalités**
+## **Fonctionnalit\u00e9s**
 
-- Résolution de polynômes par degré (quadratiques, cubiques, quartiques, etc.).
-- Approximation des racines via des méthodes analytiques.
-- Routage intelligent des requêtes via la passerelle.
-- Microservices spécialisés pour chaque fonction du projet.
+- **Calcul des racines** : Trouver les solutions d'un polyn\u00f4me.
+- **Factorisation** : Diviser les polyn\u00f4mes en facteurs.
+- **Calcul par la m\u00e9thode de Newton** : Approximation des solutions analytiques.
+- **Calcul quadratique** : R\u00e9solution des polyn\u00f4mes du second degr\u00e9.
+- **Visualisation graphique** : Repr\u00e9sentation graphique des polyn\u00f4mes et de leurs racines.
 
 ---
 
@@ -111,7 +112,7 @@ L'application est divisée en plusieurs composants :
 
 ## **Exemples Illustratifs**
 
-### Exemple 1 : Résolution d'un polynôme quadratique
+### Exemple 1 : Résolution d'un polynôme 
 **Polynôme :** `x² - 5x + 6 = 0`  
 **Résultat :** `x = 2, x = 3`
 
@@ -119,7 +120,7 @@ L'application est divisée en plusieurs composants :
 
 ## **Vidéo Démonstrative**
 
-- [Démonstration Backend & Frontend](https://github.com/user-attachments/assets/6e781dda-6457-4a27-8ae5-c62f4d223c9d)
+- [Démonstration Backend & Frontend](https://github.com/user-attachments/assets/52c34e39-b6e8-420a-af23-55b1330a4ec2)
 - [Démonstration Mobile Flutter](https://github.com/user-attachments/assets/68736cf1-891f-4c27-a825-03b8cb6e1e44)
 
 ---
