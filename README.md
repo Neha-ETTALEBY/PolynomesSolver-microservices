@@ -32,7 +32,7 @@ Cette application résout des équations polynomiales en utilisant des méthodes
 ## **Technologies Utilisées**
 
 - **Frontend** : React, Flutter
-- **Backend** : Spring Boot avec Spring Cloud Gateway
+- **Backend** : Spring Boot avec Spring Cloud Gateway Python Flask
 - **Service Discovery** : Netflix Eureka
 - **Base de Données** : MySQL
 
